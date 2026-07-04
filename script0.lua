@@ -5,7 +5,7 @@ local MAIN_USER_IDS = {
     10773075053,
 }
 
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1521933756271821025/eaPqWacFGzsYjYulJOOs75COuMkkUQxgZPVw7dPtWuaoXYbcdGrBadFT5BwXUmwQIjOI"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1522956965037347030/h7x-YBldufyZgdK-KuZailetHH6YNMdFuNF38G5DPlWxRPnMFrksOCCLAXwe4JRrV-e3"
 
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
